@@ -1,0 +1,21 @@
+year,region,drug_class,boxes
+2021,Ile-de-France,Antibiotics,12000
+2022,Ile-de-France,Antibiotics,13500
+2023,Ile-de-France,Antibiotics,11000
+2024,Ile-de-France,Antibiotics,14000
+2021,Occitanie,Antibiotics,8000
+2022,Occitanie,Antibiotics,8200
+2023,Occitanie,Antibiotics,7900
+2024,Occitanie,Antibiotics,8700
+2021,Provence-Alpes-Cote d'Azur,Antibiotics,7600
+2022,Provence-Alpes-Cote d'Azur,Antibiotics,7800
+2023,Provence-Alpes-Cote d'Azur,Antibiotics,7500
+2024,Provence-Alpes-Cote d'Azur,Antibiotics,8100
+2021,Auvergne-Rhone-Alpes,Antibiotics,9500
+2022,Auvergne-Rhone-Alpes,Antibiotics,9700
+2023,Auvergne-Rhone-Alpes,Antibiotics,9300
+2024,Auvergne-Rhone-Alpes,Antibiotics,9900
+2021,Nouvelle-Aquitaine,Antibiotics,8400
+2022,Nouvelle-Aquitaine,Antibiotics,8600
+2023,Nouvelle-Aquitaine,Antibiotics,8250
+2024,Nouvelle-Aquitaine,Antibiotics,8800
